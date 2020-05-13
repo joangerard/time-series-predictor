@@ -1,5 +1,5 @@
 class Message:
     def __init__(self):
-        self.id = None
+        self.id = 0
         self.x = []
 
