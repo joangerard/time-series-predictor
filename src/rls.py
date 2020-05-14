@@ -3,9 +3,9 @@ import numpy as np
 
 class RLS:
     def __init__(self, num_features, nu):
-        self.beta = np.zeros(num_features)
+        self.beta = np.zeros(num_features + 1)
         v0 = 10  ## initialization covariance
-        self.V = np.diag(np.zeros(num_features) + v0)  ## initial covariance matrix for model 1
+        self.V = np.diag(np.zeros(num_features + 1) + v0)  ## initial covariance matrix for model 1
         self.nu = nu  # forgetting factor
 
     def fit_one(self, x, y):
