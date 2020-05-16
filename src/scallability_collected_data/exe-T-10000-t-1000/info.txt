@@ -1,0 +1,9 @@
+It took 1.2 min to process all the data with 2 exec
+It took 1 min to process all the data with 4 exec
+It took 1.6 min to process all the data with 8 exec
+
+----------------------------------------------------
+
+2 exec -> 98 jobs
+4 exec -> 67 jobs
+8 exec -> 73 jobs
