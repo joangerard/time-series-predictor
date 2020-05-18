@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-file_names = ["2-exec-T-10000-t-1000.txt", "4-exec-T-10000-t-1000.txt", "8-exec-T-10000-t-1000.txt"]
+file_names = ["2-exe-T-1000000-t-100000.txt", "4-exe-T-1000000-t-100000.txt", "8-exe-T-1000000-t-100000.txt"]
 labels = ["2","4","8"]
 
 all_data = []

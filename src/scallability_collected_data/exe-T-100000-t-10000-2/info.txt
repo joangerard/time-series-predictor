@@ -1,0 +1,59 @@
+2:
+
+{
+  "startTime" : "2020-05-18T17:17:05.283GMT",
+  "batchDuration" : 1000,
+  "numReceivers" : 1,
+  "numActiveReceivers" : 1,
+  "numInactiveReceivers" : 0,
+  "numTotalCompletedBatches" : 63,
+  "numRetainedCompletedBatches" : 63,
+  "numActiveBatches" : 31,
+  "numProcessedRecords" : 10,
+  "numReceivedRecords" : 10,
+  "avgInputRate" : 0.10638297872340426,
+  "avgSchedulingDelay" : 18739,
+  "avgProcessingTime" : 1476,
+  "avgTotalDelay" : 20032
+}
+----------------------
+
+4:
+
+{
+  "startTime" : "2020-05-18T17:23:54.351GMT",
+  "batchDuration" : 1000,
+  "numReceivers" : 1,
+  "numActiveReceivers" : 1,
+  "numInactiveReceivers" : 0,
+  "numTotalCompletedBatches" : 76,
+  "numRetainedCompletedBatches" : 76,
+  "numActiveBatches" : 32,
+  "numProcessedRecords" : 10,
+  "numReceivedRecords" : 10,
+  "avgInputRate" : 0.09259259259259259,
+  "avgSchedulingDelay" : 21427,
+  "avgProcessingTime" : 1413,
+  "avgTotalDelay" : 22706
+}
+
+---------------------------
+
+8:
+
+{
+  "startTime" : "2020-05-18T17:32:11.777GMT",
+  "batchDuration" : 1000,
+  "numReceivers" : 1,
+  "numActiveReceivers" : 1,
+  "numInactiveReceivers" : 0,
+  "numTotalCompletedBatches" : 61,
+  "numRetainedCompletedBatches" : 61,
+  "numActiveBatches" : 60,
+  "numProcessedRecords" : 10,
+  "numReceivedRecords" : 10,
+  "avgInputRate" : 0.08264462809917356,
+  "avgSchedulingDelay" : 33804,
+  "avgProcessingTime" : 1961,
+  "avgTotalDelay" : 35356
+}
